@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Edwaro-py
-- 👀 I’m interested in learning and creating web site code
-- 🌱 I’m currently learning Html, css, Jaavascript
+- 🌱 I’m currently learning C++ and 3d modeling
 
 <!---
 Edwaro-py/Edwaro-py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
